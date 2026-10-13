@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  카러플 인포 앱 홈 화면에 뜨는 이벤트 카드 목록입니다.
+  - 각 <event> 하나가 카드 한 장입니다. 여러 장을 넣으면 홈 화면에서 좌우로 넘겨 볼 수 있어요.
+  - startAt ~ endAt 구간에 "지금"이 들어있는 카드만 화면에 보입니다. 구간이 지났거나 아직 안 왔으면 자동으로 숨겨져요.
+  - 날짜는 꼭 UTC 기준(끝에 Z)으로 "yyyy-MM-ddTHH:mm:ssZ" 형식으로 적어주세요.
+    한국 시간(KST)은 UTC보다 9시간 빠르므로, 예를 들어 한국 시간 10월 25일 00:00 은 UTC로 10월 24일 15:00 (2026-10-24T15:00:00Z) 입니다.
+  - imageUrl, linkUrl, backgroundColor 는 전부 선택 사항입니다 — 없으면 그냥 안 쓰시면 돼요.
+  - id는 카드끼리만 서로 다르면 되고, 화면에는 안 보입니다.
+-->
+<events>
+
+    <!-- 예시 1: 이미지 없이 글자와 배경색만 쓰는 가장 단순한 카드 -->
+    <event>
+        <id>maintenance_1010</id>
+        <title>10/10(토) 임시 점검 안내</title>
+        <subtitle>오전 2시 ~ 4시, 점검 중 접속이 제한됩니다</subtitle>
+        <backgroundColor>#3A5BA0</backgroundColor>
+        <startAt>2026-10-09T15:00:00Z</startAt>
+        <endAt>2026-10-11T15:00:00Z</endAt>
+    </event>
+
+    <!-- 예시 2: 배경 이미지 + 누르면 외부 페이지로 연결되는 카드 -->
+    <event>
+        <id>halloween_2026</id>
+        <title>할로윈 한정 이벤트</title>
+        <subtitle>10/31까지 접속하면 한정 아이템 증정</subtitle>
+        <imageUrl>https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPO/main/images/halloween_banner.png</imageUrl>
+        <linkUrl>https://forum.nexon.com/kart_rush/board_view?board=1420&thread=0</linkUrl>
+        <startAt>2026-10-24T15:00:00Z</startAt>
+        <endAt>2026-11-01T15:00:00Z</endAt>
+    </event>
+
+    <!-- 예시 3: 연말 업데이트 예고 (아직 시작 전인 날짜 예시 — 2026-12-01 전까지는 안 보임) -->
+    <event>
+        <id>winter_update_2026</id>
+        <title>겨울 대규모 업데이트 예고</title>
+        <subtitle>신규 트랙과 시즌 7 공개</subtitle>
+        <backgroundColor>#1E6F5C</backgroundColor>
+        <startAt>2026-12-01T00:00:00Z</startAt>
+        <endAt>2026-12-25T15:00:00Z</endAt>
+    </event>
+
+</events>
