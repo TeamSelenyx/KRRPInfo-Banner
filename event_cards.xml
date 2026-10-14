@@ -16,8 +16,8 @@
         <title>테스트 배너 1</title>
         <subtitle>현재 배포를 준비중인 앱의 테스트 배너입니다.</subtitle>
         <backgroundColor>#FFFFFF</backgroundColor>
-        <startAt>2026-10-09T00:00:00Z</startAt>
-        <endAt>2026-10-20T23:59:59Z</endAt>
+        <startAt>2026-10-09T00:00:00</startAt>
+        <endAt>2026-10-20T23:59:59</endAt>
     </event>
 
     <!-- 예시 2: 배경 이미지 + 누르면 외부 페이지로 연결되는 카드 -->
@@ -27,8 +27,8 @@
         <subtitle>배경 이미지가 있고, 배너 클릭 시 외부 페이지로 연결</subtitle>
         <imageUrl>https://nxm-mt.akamaized.net/Contents/kartrush.nexon.com/launching/images_9B452F71D3CCA09B/sns_thumb-kr.jpg</imageUrl>
         <linkUrl>https://forum.nexon.com/kart_rush/board_view?board=1420&amp;thread=0</linkUrl>
-        <startAt>2026-10-09T00:00:00Z</startAt>
-        <endAt>2026-11-01T23:59:59Z</endAt>
+        <startAt>2026-10-09T00:00:00</startAt>
+        <endAt>2026-11-01T23:59:59</endAt>
     </event>
 
     <!-- 예시 3: 연말 업데이트 예고 (아직 시작 전인 날짜 예시 — 2026-12-01 전까지는 안 보임) -->
@@ -37,8 +37,8 @@
         <title>KRRP 정보 앱 출시!</title>
         <subtitle>다양한 기능을 모아둔 KRRP 정보 앱이 출시되었습니다!</subtitle>
         <backgroundColor>#1E6F5C</backgroundColor>
-        <startAt>2026-10-14T00:00:00Z</startAt>
-        <endAt>2026-12-31T23:59:59Z</endAt>
+        <startAt>2026-10-14T00:00:00</startAt>
+        <endAt>*</endAt>
     </event>
 
 </events>
