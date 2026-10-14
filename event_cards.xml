@@ -17,7 +17,7 @@
         <subtitle>오전 2시 ~ 4시, 점검 중 접속이 제한됩니다</subtitle>
         <backgroundColor>#3A5BA0</backgroundColor>
         <startAt>2026-10-09T15:00:00Z</startAt>
-        <endAt>2026-10-11T15:00:00Z</endAt>
+        <endAt>2026-10-16T15:00:00Z</endAt>
     </event>
 
     <!-- 예시 2: 배경 이미지 + 누르면 외부 페이지로 연결되는 카드 -->
