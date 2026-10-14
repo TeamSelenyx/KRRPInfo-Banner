@@ -15,6 +15,7 @@
         <id>maintenance_1010</id>
         <title>10/10(토) 임시 점검 안내</title>
         <subtitle>오전 2시 ~ 4시, 점검 중 접속이 제한됩니다</subtitle>
+        <imageUrl>https://nxm-mt.akamaized.net/Contents/kartrush.nexon.com/launching/images_9B452F71D3CCA09B/pc/kr/slider/img2.png</imageUrl>
         <backgroundColor>#3A5BA0</backgroundColor>
         <startAt>2026-10-09T15:00:00Z</startAt>
         <endAt>2026-10-16T15:00:00Z</endAt>
@@ -25,9 +26,9 @@
         <id>halloween_2026</id>
         <title>할로윈 한정 이벤트</title>
         <subtitle>10/31까지 접속하면 한정 아이템 증정</subtitle>
-        <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/main/images/halloween_banner.png</imageUrl>
+        <imageUrl>https://nxm-mt.akamaized.net/Contents/kartrush.nexon.com/launching/images_9B452F71D3CCA09B/sns_thumb-kr.jpg</imageUrl>
         <linkUrl>https://forum.nexon.com/kart_rush/board_view?board=1420&amp;thread=0</linkUrl>
-        <startAt>2026-10-14T15:00:00Z</startAt>
+        <startAt>2026-10-13T15:00:00Z</startAt>
         <endAt>2026-11-01T15:00:00Z</endAt>
     </event>
 
