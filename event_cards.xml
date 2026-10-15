@@ -10,35 +10,51 @@
 -->
 <events>
 
-    <!-- 예시 1: 이미지 없이 글자와 배경색만 쓰는 가장 단순한 카드 -->
-    <event>
-        <id>test_banner_1</id>
-        <title>테스트 배너 1</title>
-        <subtitle>현재 배포를 준비중인 앱의 테스트 배너입니다.</subtitle>
-        <backgroundColor>#FFFFFF</backgroundColor>
-        <startAt>2026-10-09T00:00:00</startAt>
-        <endAt>2026-10-20T23:59:59</endAt>
-    </event>
-
-    <!-- 예시 2: 배경 이미지 + 누르면 외부 페이지로 연결되는 카드 -->
-    <event>
-        <id>test_banner_2</id>
-        <title>테스트 배너 2</title>
-        <subtitle>배경 이미지가 있고, 배너 클릭 시 외부 페이지로 연결</subtitle>
-        <imageUrl>https://nxm-mt.akamaized.net/Contents/kartrush.nexon.com/launching/images_9B452F71D3CCA09B/sns_thumb-kr.jpg</imageUrl>
-        <linkUrl>https://forum.nexon.com/kart_rush/board_view?board=1420&amp;thread=0</linkUrl>
-        <startAt>2026-10-09T00:00:00</startAt>
-        <endAt>2026-11-01T23:59:59</endAt>
-    </event>
-
-    <!-- 예시 3: 연말 업데이트 예고 (아직 시작 전인 날짜 예시 — 2026-12-01 전까지는 안 보임) -->
     <event>
         <id>2026_app_open_banner</id>
         <title>KRRP 정보 앱 출시!</title>
         <subtitle>다양한 기능을 모아둔 KRRP 정보 앱이 출시되었습니다!</subtitle>
-        <backgroundColor>#1E6F5C</backgroundColor>
-        <startAt>2026-10-14T00:00:00</startAt>
+        <imageUrl>https://nxm-mt.akamaized.net/Contents/kartrush.nexon.com/launching/images_9B452F71D3CCA09B/sns_thumb-kr.jpg</imageUrl>
+        <startAt>*</startAt>
         <endAt>*</endAt>
+    </event>
+
+    <event>
+        <id>2026_ALD1_event</id>
+        <title>전율 속으로, DRIVE</title>
+        <subtitle>플레이해서 친필 사인 또는 에어팟 맥스 2를 획득할 기회를 얻어보세요!</subtitle>
+        <imageUrl>https://jarvis.dn.nexoncdn.co.kr/kart-rush-plus/gb/20260921/20260921063555893-343b76ed89bf4c429f77a6eb2b005a16.png</imageUrl>
+        <linkUrl>https://kartrush.nexon.com/2026/event_260922-launching#event1</linkUrl>
+        <startAt>2026-09-22T00:00:00</startAt>
+        <endAt>2026-10-20T23:59:59</endAt>
+    </event>
+
+    <event>
+        <id>obit_station_event</id>
+        <title>오빗 스테이션</title>
+        <subtitle>신규, 복귀 유저들을 초대해서 무료 레전드 카트를 얻어보세요.</subtitle>
+        <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/main/banner/오빗_스테이션.png</imageUrl>
+        <startAt>2026-09-23T00:00:00</startAt>
+        <endAt>2026-10-29T23:59:59</endAt>
+    </event>
+
+    <event>
+        <id>test_banner_1</id>
+        <title>테스트 배너 1</title>
+        <subtitle>하얀색 배경만 표시</subtitle>
+        <backgroundColor>#FFFFFF</backgroundColor>
+        <startAt>2026-10-09T00:00:00</startAt>
+        <endAt>2026-12-31T23:59:59</endAt>
+    </event>
+
+    <event>
+        <id>test_banner_2</id>
+        <title>테스트 배너 2</title>
+        <subtitle>하얀색 배경에 누르면 다른 사이트로 이동</subtitle>
+        <backgroundColor>#FFFFFF</backgroundColor>
+        <linkUrl>https://forum.nexon.com/kart_rush/board_view?board=1420&amp;thread=0</linkUrl>
+        <startAt>2026-10-09T00:00:00</startAt>
+        <endAt>2026-12-31T23:59:59</endAt>
     </event>
 
 </events>
