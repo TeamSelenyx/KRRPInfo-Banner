@@ -33,7 +33,7 @@
         <id>orbit_station_event</id>
         <title>오빗 스테이션</title>
         <subtitle>신규, 복귀 유저들을 초대해서 무료 레전드 카트를 얻어보세요.</subtitle>
-        <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/main/banner/orbit_station_preview.png</imageUrl>
+        <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/main/banner/orbit_station_preview.jpg</imageUrl>
         <startAt>2026-09-23T00:00:00</startAt>
         <endAt>2026-10-29T23:59:59</endAt>
     </event>
