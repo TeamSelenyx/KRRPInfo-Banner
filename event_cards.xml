@@ -43,8 +43,8 @@
         <title>테스트 배너 1</title>
         <subtitle>하얀색 배경만 표시</subtitle>
         <backgroundColor>#FFFFFF</backgroundColor>
-        <startAt>2026-10-09T00:00:00</startAt>
-        <endAt>2026-12-31T23:59:59</endAt>
+        <startAt>2027-10-09T00:00:00</startAt>
+        <endAt>2027-12-31T23:59:59</endAt>
     </event>
 
     <event>
@@ -53,8 +53,8 @@
         <subtitle>하얀색 배경에 누르면 다른 사이트로 이동</subtitle>
         <backgroundColor>#FFFFFF</backgroundColor>
         <linkUrl>https://forum.nexon.com/kart_rush/board_view?board=1420&amp;thread=0</linkUrl>
-        <startAt>2026-10-09T00:00:00</startAt>
-        <endAt>2026-12-31T23:59:59</endAt>
+        <startAt>2027-10-09T00:00:00</startAt>
+        <endAt>2027-12-31T23:59:59</endAt>
     </event>
 
 </events>
