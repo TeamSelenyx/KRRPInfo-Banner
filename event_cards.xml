@@ -43,7 +43,7 @@
         <title>테스트 배너 1</title>
         <subtitle>하얀색 배경만 표시</subtitle>
         <backgroundColor>#FFFFFF</backgroundColor>
-        <startAt>2026-11-09T00:00:00</startAt>
+        <startAt>2026-10-09T00:00:00</startAt>
         <endAt>2026-12-31T23:59:59</endAt>
     </event>
 
