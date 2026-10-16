@@ -23,17 +23,17 @@
         <id>2026_ALD1_event</id>
         <title>전율 속으로, DRIVE</title>
         <subtitle>플레이해서 친필 사인 또는 에어팟 맥스 2를 획득할 기회를 얻어보세요!</subtitle>
-        <imageUrl>https://jarvis.dn.nexoncdn.co.kr/kart-rush-plus/gb/20260921/20260921063555893-343b76ed89bf4c429f77a6eb2b005a16.png</imageUrl>
+        <imageUrl>https://dszw1qtcnsa5e.cloudfront.net/community/20260917/8e19bce1-da27-4541-a236-2d7a63574ba0/02%EC%9B%B9%EB%A1%A4%EB%A7%81%EB%B0%B0%EB%84%88PCMO750X522.jpg</imageUrl>
         <linkUrl>https://kartrush.nexon.com/2026/event_260922-launching#event1</linkUrl>
         <startAt>2026-09-22T00:00:00</startAt>
         <endAt>2026-10-20T23:59:59</endAt>
     </event>
 
     <event>
-        <id>obit_station_event</id>
+        <id>orbit_station_event</id>
         <title>오빗 스테이션</title>
         <subtitle>신규, 복귀 유저들을 초대해서 무료 레전드 카트를 얻어보세요.</subtitle>
-        <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/main/banner/오빗_스테이션.png</imageUrl>
+        <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/main/banner/orbit_station_preview.png</imageUrl>
         <startAt>2026-09-23T00:00:00</startAt>
         <endAt>2026-10-29T23:59:59</endAt>
     </event>
