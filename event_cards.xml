@@ -21,7 +21,7 @@
             <title>KRRP 정보 앱 테스트 오픈!</title>
             <date>2026-10-19</date>
             <image>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/kartrider_rush_plus_main.jpg</image>
-            <text>Nexon Open API를 이용해서 카러플과 관련된 기능들을 사용하실 수 있습니다.</text>
+            <text> Nexon Open API를 이용해서 카러플과 관련된 기능들을 사용하실 수 있습니다.\n 카러플 공식 커뮤니티에 올라온 게시글들을 보거나, 다른 유저들을 목록에 추가해서 친한 사람들 또는 보고 싶지 않은 유저들을 카테고리로 구분해서 저장하거나 다른 유저들이랑 공유할 수 있습니다.\n\n 그리고 빠른 쿠폰 입력을 위해 앱에 회원 코드를 설정해두면, 쿠폰 탭에서 자신의 회원 코드를 바로 복사해서 사용할 수 있습니다.\n\n(이 앱은 Nexon 측 공식 앱이 아니며, 이 앱에서 지원되는 기능이 어느순간 갑자기 사라질 수도 있습니다.)</text>
         </popup>
     </event>
 
