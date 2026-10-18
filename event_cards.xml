@@ -18,10 +18,24 @@
         <startAt>*</startAt>
         <endAt>*</endAt>
         <popup>
-            <title>자세한 이용 안내</title>
-            <date>2026-10-18</date>
+            <title>KRRP 정보 앱 테스트 오픈!</title>
+            <date>2026-10-19</date>
             <image>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/kartrider_rush_plus_main.jpg</image>
-            <text>여기에 긴 안내 문구를 자유롭게 적으시면 됩니다.\n줄바꿈도 그대로 반영돼요.\n줄바꿈도 그대로 반영돼요.\n줄바꿈도 그대로 반영돼요.\n줄바꿈도 그대로 반영돼요.\n줄바꿈도 그대로 반영돼요.\n줄바꿈도 그대로 반영돼요.</text>
+            <text>Nexon Open API를 이용해서 카러플과 관련된 기능들을 사용하실 수 있습니다.</text>
+        </popup>
+    </event>
+
+    <event>
+        <id>krrp_update_261018</id>
+        <title>KRRP 정보, v0.3.0 업데이트</title>
+        <subtitle>버그 수정, 새로운 기능들을 확인하려면 눌러주세요.</subtitle>
+        <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/krrp_info_update.png</imageUrl>
+        <startAt>2026-10-19T00:00:00</startAt>
+        <endAt>*</endAt>
+        <popup>
+            <title>KRRP 정보, v0.3.0 업데이트 내용</title>
+            <date>2026-10-19</date>
+            <text>업데이트 내용:\n * 팝업 배너 기능 추가! 더 세세한 내용을 배너를 클릭해서 확인할 수 있습니다.\n * 플로팅 패널(설정, 내 프로필등)에서 패널 가장자리에 테두리를 추가했습니다.\n * 메인 화면에서 첫 번째 배너가 아닌 특정 배너가 먼저 표시되던 문제 수정\n * 일부 버그 수정</text>
         </popup>
     </event>
 
@@ -42,11 +56,6 @@
         <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/orbit_station_preview.jpg</imageUrl>
         <startAt>2026-09-23T00:00:00</startAt>
         <endAt>2026-10-29T23:59:59</endAt>
-        <popup>
-            <title>자세한 이용 안내</title>
-            <date>2026-10-18</date>
-            <text>여기에 긴 안내 문구를 자유롭게 적으시면 됩니다.\n줄바꿈도 그대로 반영돼요.\n줄바꿈도 그대로 반영돼요.\n줄바꿈도 그대로 반영돼요.\n줄바꿈도 그대로 반영돼요.\n줄바꿈도 그대로 반영돼요.\n줄바꿈도 그대로 반영돼요.</text>
-        </popup>
     </event>
 
     <event>
