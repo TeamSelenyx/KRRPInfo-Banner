@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  카러플 인포 앱 커뮤니티 탭 맨 위에 가로로 넘겨 보는 D-day 카드 목록입니다.
+  - 각 <dday> 하나가 카드 한 장입니다. 개수가 많으면 앱에서 좌우로 스크롤돼요.
+  - <name>: 카드에 보일 이름, <date>: 목표 날짜. 앱이 오늘부터 남은 일수를 계산해서 "D-12" 형식으로 보여줍니다.
+  - 날짜 형식은 2026-12-25 처럼 적어주세요. (2026.12.25 / 2026/12/25 도 인식합니다)
+  - 목표 날짜 당일은 "D-Day"로 보이고, 날짜가 지난 카드는 앱에서 자동으로 숨겨집니다.
+  - 카드는 남은 날짜가 적은 순서(가까운 날짜부터)로 자동 정렬되니, 파일 안에서 순서는 상관없어요.
+  - <colorLight>: 라이트 모드 배경색, <colorDark>: 다크 모드 배경색 (#RRGGBB 형식). 둘 다 선택 사항이고,
+    안 쓰면 앱 기본 카드색이 쓰여요. 글자색(흰색/검정)은 배경 밝기에 맞춰 앱이 알아서 정합니다.
+  - id는 카드끼리만 서로 다르면 되고, 화면에는 안 보입니다.
+  - 주의: 이름에 &, <, > 를 쓰려면 각각 &amp; &lt; &gt; 로 바꿔 적어야 해요. (그대로 쓰면 파일 전체가 안 읽힙니다)
+-->
+<ddays>
+
+    <dday>
+        <id>kartrider_rushplus_7th_anniversary</id>
+        <name>카러플 7주년</name>
+        <date>2027-05-12</date>
+        <colorLight>#DCE8FF</colorLight>
+        <colorDark>#26406E</colorDark>
+    </dday>
+
+    <dday>
+        <id>krrp_season_41</id>
+        <name>시즌 41 종료까지</name>
+        <date>2026-11-11</date>
+    </dday>
+
+    <dday>
+        <id>orbit_event</id>
+        <name>오빗 획득 이벤트 종료까지</name>
+        <date>2026-10-28</date>
+        <colorLight>#FFE1E1</colorLight>
+        <colorDark>#5C2B2B</colorDark>
+    </dday>
+
+    <!-- 색을 안 적은 카드: 앱 기본 카드색으로 나옵니다 -->
+    <dday>
+        <id>new_year</id>
+        <name>새해 접속 보상</name>
+        <date>2027-01-01</date>
+    </dday>
+
+</ddays>
