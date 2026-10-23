@@ -50,7 +50,7 @@
     </event>
 
     <event>
-        <id>krrp_update_261023</id>
+        <id>krrp_update_261024</id>
         <title>[BETA] v0.4.0 업데이트</title>
         <subtitle>버그 수정, 새로운 기능들을 확인하려면 눌러주세요.</subtitle>
         <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/krrp_info_update.png</imageUrl>
@@ -58,8 +58,8 @@
         <endAt>*</endAt>
         <popup>
             <title>v0.4.0 업데이트 내용</title>
-            <date>2026-10-23</date>
-            <text>업데이트 버전: v0.4.0\n업데이트 날짜: 2026.10.23\n\n업데이트 내용:\n * 팝업 배너 바깥쪽을 눌러서 닫을 수 있게 패치했습니다.\n * 팝업 배너에서 특정 URL로 바로 이동할 수 있는 버튼이 추가됩니다.\n * 커뮤니티 탭에서 상단에 카러플과 관련된 일정들을 확인할 수 있습니다.</text>
+            <date>2026-10-24</date>
+            <text>업데이트 버전: v0.4.0\n업데이트 날짜: 2026.10.24\n\n업데이트 내용:\n * 팝업 배너 바깥쪽을 눌러서 닫을 수 있게 패치했습니다.\n * 팝업 배너에서 특정 URL로 바로 이동할 수 있는 버튼이 추가됩니다.\n * 커뮤니티 탭에서 상단에 카러플과 관련된 일정들을 확인할 수 있습니다.</text>
             <buttons>
                 <button>
                     <label>업데이트 하러 가기</label>
