@@ -33,17 +33,14 @@
         <startAt>2026-10-18T00:00:00</startAt>
         <endAt>2026-10-24T11:59:59</endAt>
         <popup>
-            <title>v0.3.0 업데이트 내용</title>
+            <title>[BETA] v0.3.0 업데이트 내용</title>
             <date>2026-10-18</date>
             <text>업데이트 버전: v0.3.0\n업데이트 날짜: 2026.10.18\n\n업데이트 내용:\n * 유저 정보에서 칭호가 (Unknow)로 표시될 경우 보이지 않도록 수정했습니다.\n * 팝업 배너 기능 추가! 더 세세한 내용을 배너를 클릭해서 확인할 수 있습니다.\n * 플로팅 패널(설정, 내 프로필등)에서 패널 가장자리에 테두리를 추가했습니다.\n * 메인 화면에서 첫 번째 배너가 아닌 특정 배너가 먼저 표시되던 문제 수정를 수정했습니다.\n * 기타 다른 소소한 버그들도 수정되었습니다.</text>
             <buttons>
                 <button>
                     <label>업데이트 하러 가기</label>
                     <url>https://play.google.com/store/apps/details?id=com.teamselenyx.krrpinfo</url>
-                </button>
-                <button>
-                    <label>닫기</label>
-                    <style>tonal</style>
+                    <style>outlined</style>
                 </button>
             </buttons>
         </popup>
@@ -57,17 +54,14 @@
         <startAt>2026-10-24T12:00:00</startAt>
         <endAt>*</endAt>
         <popup>
-            <title>v0.4.0 업데이트 내용</title>
+            <title>[BETA] v0.4.0 업데이트 내용</title>
             <date>2026-10-24</date>
             <text>업데이트 버전: v0.4.0\n업데이트 날짜: 2026.10.24\n\n업데이트 내용:\n * 팝업 배너 바깥쪽을 눌러서 닫을 수 있게 패치했습니다.\n * 팝업 배너에서 특정 URL로 바로 이동할 수 있는 버튼이 추가됩니다.\n * 커뮤니티 탭에서 상단에 카러플과 관련된 일정들을 확인할 수 있습니다.</text>
             <buttons>
                 <button>
                     <label>업데이트 하러 가기</label>
                     <url>https://play.google.com/store/apps/details?id=com.teamselenyx.krrpinfo</url>
-                </button>
-                <button>
-                    <label>닫기</label>
-                    <style>tonal</style>
+                    <style>outlined</style>
                 </button>
             </buttons>
         </popup>
@@ -81,17 +75,14 @@
         <startAt>2027-10-24T12:00:00</startAt>
         <endAt>*</endAt>
         <popup>
-            <title>v0.5.0 업데이트 내용</title>
+            <title>[BETA] v0.5.0 업데이트 내용</title>
             <date>2026-11-00</date>
             <text>업데이트 버전: v0.5.0\n업데이트 날짜: 2026.11.00\n\n업데이트 내용:\n * 메인 탭의 각 항목들의 순서를 변경하거나 숨길 수 있는 기능이 추가됩니다.</text>
             <buttons>
                 <button>
                     <label>업데이트 하러 가기</label>
                     <url>https://play.google.com/store/apps/details?id=com.teamselenyx.krrpinfo</url>
-                </button>
-                <button>
-                    <label>닫기</label>
-                    <style>tonal</style>
+                    <style>outlined</style>
                 </button>
             </buttons>
         </popup>

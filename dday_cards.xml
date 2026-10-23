@@ -38,7 +38,7 @@
     <!-- 색을 안 적은 카드: 앱 기본 카드색으로 나옵니다 -->
     <dday>
         <id>new_year</id>
-        <name>새해 접속 보상</name>
+        <name>2027년 까지</name>
         <date>2027-01-01</date>
     </dday>
 
