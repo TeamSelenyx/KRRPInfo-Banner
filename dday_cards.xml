@@ -35,10 +35,9 @@
         <colorDark>#5C2B2B</colorDark>
     </dday>
 
-    <!-- 색을 안 적은 카드: 앱 기본 카드색으로 나옵니다 -->
     <dday>
         <id>new_year</id>
-        <name>2027년, 붉은 양의 해</name>
+        <name>2027년,\n붉은 양의 해</name>
         <date>2027-01-01</date>
     </dday>
 
