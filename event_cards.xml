@@ -68,6 +68,16 @@
     </event>
 
     <event>
+        <id>S42_preivew</id>
+        <title>시즌 42 콘텐츠 미리보기</title>
+        <subtitle>꽃향기 가득한 비밀의 정원에서 펼쳐지는 레이싱 모험!</subtitle>
+        <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/S42_preview.png</imageUrl>
+        <linkUrl>https://forum.nexon.com/kartrush/board_view?board=833&amp;thread=3572108&amp;stickyBoard=1</linkUrl>
+        <startAt>2026-11-02T00:00:00</startAt>
+        <endAt>2026-11-12T23:59:59</endAt>
+    </event>
+
+    <event>
         <id>discord_coming_soons</id>
         <title>Discord 서버 오픈 예정</title>
         <subtitle>KRRP 정보 앱의 Discord 서버가 오픈 준비중 입니다.</subtitle>
