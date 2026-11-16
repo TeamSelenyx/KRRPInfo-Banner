@@ -32,7 +32,7 @@
         <maxVersion>0.4.0</maxVersion>
         <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/krrp_info_update.png</imageUrl>
         <startAt>2026-10-24T18:30:00</startAt>
-        <endAt>2026-11-27T11:59:59</endAt>
+        <endAt>2026-11-17T23:59:59</endAt>
         <popup>
             <title>[BETA] v0.4.0 업데이트 내용</title>
             <date>2026-10-24</date>
@@ -53,12 +53,12 @@
         <subtitle>버그 수정, 새로운 기능들을 확인하려면 눌러주세요.</subtitle>
         <maxVersion>0.5.0</maxVersion>
         <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/krrp_info_update.png</imageUrl>
-        <startAt>2026-11-17T12:00:00</startAt>
+        <startAt>2026-11-16T23:00:00</startAt>
         <endAt>*</endAt>
         <popup>
             <title>[BETA] v0.5.0 업데이트 내용</title>
             <date>2026-11-17</date>
-            <text>업데이트 버전: v0.5.0(BETA)\n업데이트 날짜: 2026.11.17\n\n업데이트 내용:\n * 시즌 업데이트 미리보기 기능이 추가되었습니다. 메인 화면에 있는 배너나 버튼을 통해서 현재 시즌의 업데이트 미리보기를 확인하실 수 있습니다.\n * D-Day 카드에서 이름이 2줄 이상이면 아래쪽 텍스트가 잘리는 문제가 수정됬습니다.\n * 유저 목록 백업에서 이미지도 같이 백업이 가능합니다.\n * 앱 위젯이 추가됩니다. 내 정보를 위젯에서 바로 확인할 수 있습니다.\n * 일부 버그가 수정되고, 몇몇 기능들을 개선했습니다.</text>
+            <text>업데이트 버전: v0.5.0(BETA)\n업데이트 날짜: 2026.11.17\n\n업데이트 내용:\n * 시즌 업데이트 미리보기 기능이 추가되었습니다. 메인 화면에 있는 배너나 버튼을 통해서 현재 시즌의 업데이트 미리보기를 확인하실 수 있습니다.\n * D-Day 카드에서 이름이 2줄 이상이면 아래쪽 텍스트가 잘리는 문제가 수정됬습니다.\n * 이제 유저 목록 백업에서 이미지도 같이 백업이 가능합니다.\n * 앱 위젯이 추가됩니다. 내 정보를 위젯에서 바로 확인할 수 있습니다.\n * 일부 버그가 수정되고, 몇몇 기능들을 개선했습니다.</text>
             <buttons>
                 <button>
                     <label>업데이트 하러 가기</label>
