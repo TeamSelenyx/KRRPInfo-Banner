@@ -29,6 +29,7 @@
         <id>krrp_update_261024</id>
         <title>[BETA] v0.4.0 업데이트</title>
         <subtitle>버그 수정, 새로운 기능들을 확인하려면 눌러주세요.</subtitle>
+        <minVersion>0.4.0</minVersion>
         <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/krrp_info_update.png</imageUrl>
         <startAt>2026-10-24T18:30:00</startAt>
         <endAt>*</endAt>
@@ -50,6 +51,7 @@
         <id>krrp_update_261100</id>
         <title>[BETA] v0.5.0 업데이트</title>
         <subtitle>버그 수정, 새로운 기능들을 확인하려면 눌러주세요.</subtitle>
+        <minVersion>0.5.0</minVersion>
         <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/krrp_info_update.png</imageUrl>
         <startAt>2027-11-24T12:00:00</startAt>
         <endAt>*</endAt>
@@ -71,6 +73,7 @@
         <id>krrp_update_261200</id>
         <title>[BETA] v0.6.0 업데이트</title>
         <subtitle>버그 수정, 새로운 기능들을 확인하려면 눌러주세요.</subtitle>
+        <minVersion>0.6.0</minVersion>
         <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/krrp_info_update.png</imageUrl>
         <startAt>2027-11-24T12:00:00</startAt>
         <endAt>*</endAt>
@@ -93,7 +96,8 @@
         <title>시즌 업데이트 미리보기</title>
         <subtitle>S42 일정 한눈에 보기</subtitle>
         <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/S42_preview.png</imageUrl>
-        <seasonPreview>true</seasonPreview>
+        <!-- <seasonPreview>true</seasonPreview> -->
+        <fullImage>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/S42_update_preview.jpg</fullImage>
         <startAt>2026-11-16T00:00:00</startAt>
         <endAt>*</endAt>
     </event>
