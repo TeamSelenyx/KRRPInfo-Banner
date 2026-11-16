@@ -1,0 +1,19 @@
+<season>
+  <title>시즌 42 업데이트 일정</title>
+  <image>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/S42_preview.png</image>
+
+  <day date="2026-12-10">
+    <item>신규 트랙 챌린지</item>
+    <item image="https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/orbit_station_preview.png">카트 센터 - 신규 레전드 카트 & 캐릭터</item>
+    <item>이벤트 - 시즌 교환소\n(12/31까지)</item>
+  </day>
+
+  <day date="2026-12-17">
+    <item>랠리전</item>
+    <item>시즌 부스터 버프</item>
+  </day>
+
+  <day date="2026-12-24">
+    <item image="https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/krrp_info_update_old.png">이벤트 - 크리스마스 특별 지급</item>
+  </day>
+</season>
