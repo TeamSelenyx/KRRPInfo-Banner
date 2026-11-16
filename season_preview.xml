@@ -1,16 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  시즌 업데이트 미리보기 (앱 안 "시즌 업데이트 미리보기" 팝업에 표시됨)
+  - GitHub 저장소 맨 위(event_cards.xml 옆)에 season_preview.xml 이름으로 올리세요.
+  - <startAt>/<endAt>/<minVersion>/<maxVersion> (모두 선택, 맨 위 <title> 근처에 적기):
+      홈 화면 배너 아래 "시즌 업데이트 미리보기" 버튼이 보일 기간과 앱 버전 범위.
+      예) <minVersion>0.6.0</minVersion> → 0.6.0 이상 앱에서만 버튼이 보임
+  - <title>  : 팝업 제목 (선택, 없으면 "시즌 업데이트 미리보기")
+  - <image>  : 일정표 통이미지 주소 (선택, 있으면 팝업에 "이미지" 탭이 생김)
+  - <day date="연-월-일"> : 하루. 날짜 순서는 자동 정렬, 같은 날짜를 여러 번 써도 하나로 합쳐짐
+  - <item>   : 그날의 항목 하나가 카드 한 장. image="주소" 를 붙이면 오른쪽에 작은 이미지(선택)
+  - 글자 안의 & 는 그냥 써도 앱이 자동으로 변환해서 읽습니다. (&amp; 로 적어도 OK)
+  - 지난 날짜는 앱이 알아서 회색으로 보여주고, 열 때 오늘 날짜 위치로 자동 이동합니다.
+-->
 <season>
   <title>시즌 42 업데이트 일정</title>
   <image>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/S42_update_preview.jpg</image>
-
-  <day date="2026-11-10">
-    <item>테스트</item>
-    <item image="https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/orbit_station_preview.png">테스트 카트 센터 - 신규 레전드 카트 & 캐릭터</item>
-    <item>테스트 이벤트 - 시즌 교환소\n(12/31까지)</item>
-  </day>
-
-  <day date="2026-11-11">
-    <item image="https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/krrp_info_update_old.png">테스트 이벤트 - 크리스마스 특별 지급</item>
-  </day>
   
   <day date="2026-11-12">
     <item>신규 트랙 챌린지</item>
