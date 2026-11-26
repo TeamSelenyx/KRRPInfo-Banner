@@ -116,30 +116,22 @@
     </event>
     -->
 
-    <event>
-        <id>discord_coming_soon</id>
-        <title>Discord 서버 오픈 예정</title>
-        <subtitle>KRRP 정보 앱의 Discord 서버가 오픈 준비중 입니다.</subtitle>
-        <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/discord_banner.jpeg</imageUrl>
-        <startAt>2026-10-29T00:00:00Z</startAt>
-        <endAt>*</endAt>
-    </event>
-
     <event type="popup">
         <id>discord_open</id>
         <title>Discord 서버 오픈!</title>
         <subtitle>KRRP 정보의 Discord 서버가 오픈되었습니다.</subtitle>
         <imageUrl>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/discord_banner.jpeg</imageUrl>
-        <startAt>2027-11-29T00:00:00Z</startAt>
+        <startAt>2026-11-25T00:00:00</startAt>
         <endAt>*</endAt>
         <popup>
             <title>Discord 서버 오픈</title>
-            <date>2026-11-00</date>
+            <date>2026-11-25</date>
+            <image>https://raw.githubusercontent.com/TeamSelenyx/KRRPInfo-Banner/refs/heads/main/banner/discord_banner.jpeg</image>
             <text> KRRP 정보의 Discord 서버가 오픈되었습니다. 이곳에서 이후 업데이트에 대한 소식들과 다른 사람들과 소통을 해보세요.\n\n 앱을 사용하면서 발생하는 버그나 개선 사항들도 작성하실 수 있습니다. 추후 진행될 업데이트에 해당 피드백들이 적용될 수 있으니 많은 관심 바랍니다.</text>
             <buttons>
                 <button>
                     <label>Discord 서버 입장하기</label>
-                    <url></url>
+                    <url>https://discord.gg/ctH5ddMStq</url>
                     <style>outlined</style>
                 </button>
             </buttons>
